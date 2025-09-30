@@ -2,7 +2,6 @@
 
 <p align="center">Traduction en Français pour le jeu Gunpoint</p>
 <p align="center">
-<a href="https://github.com/leghort/gunpoint-patch-fr/releases"><img src="https://img.shields.io/github/v/release/leghort/gunpoint-patch-fr"></a>
 </p>
 
 ### Table des matières
