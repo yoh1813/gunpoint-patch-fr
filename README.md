@@ -31,4 +31,4 @@ C'est fait ! Vous pourrez désormais voir les conversations de vos clients en Fr
 2) Clic droit sur le jeu dans steam / Propriétés / Fichiers installés / Vérifier l'intégrité des fichiers du jeu
 
 ## Télécharger la dernière version
-[![Download-Button.png](.readme.assets/Download-Button.png)](../../archive/master.zip)
+[![Download-Button.png](.readme.assets/Download-Button.png)](/releases/download/latest/scripts.zip)
