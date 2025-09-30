@@ -1,4 +1,4 @@
-<p align="center"><img src=.readme.assets/newsletterfooterdst.png></p>
+<p align="center"><img src=".readme.assets/header.png"></p>
 
 <p align="center">Traduction en Français pour le jeu Gunpoint</p>
 <p align="center">
