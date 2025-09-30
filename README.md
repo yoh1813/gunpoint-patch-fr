@@ -21,7 +21,7 @@ Les accents et certains autres caractères spéciaux apparaissent dans les dialo
 ## Installation:
 1) Téléchargez le dossier avec les scripts traduits
 2) Si vous le souhaitez vous pouvez faire un backup du dossier X:\SteamLibrary\steamapps\common\Gunpoint\Scripts mais vous pourez toujours le restaurer à partir de steam (CF désinstallation)
-3) Remplacez le dossier à l'intérieur du fichier compressé à l'intérieur du dossier où vous avez installé le jeu en écrasant les fichiers déjà présent  ( X:\SteamLibrary\steamapps\common\Gunpoint ).
+3) Extraire les scripts à l'intérieur du dossier où vous avez installé le jeu en écrasant les fichiers déjà présent  ( X:\SteamLibrary\steamapps\common\Gunpoint ).
 
 
 C'est fait ! Vous pourrez désormais voir les conversations de vos clients en Français.
