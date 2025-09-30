@@ -2,8 +2,8 @@
 
 <p align="center">Traduction en Français pour le jeu Gunpoint</p>
 <p align="center">
-<a href="https://store.steampowered.com/app/206190/Gunpoint/?l=french"><img src="/yoh1813/gunpoint-patch-fr/tree/main/.readme.assets/header.png"></a>
-<a href="."><img src="..."></a>
+<a href="https://github.com/leghort/gunpoint-patch-fr/releases"><img src="https://img.shields.io/github/v/release/leghort/Traduction-Dont-starve-together"></a>
+<a href="https://github.com/leghort/gunpoint-patch-fr/commits/master"><img src="https://img.shields.io/badge/traduction-69%25-green"></a>
 </p>
 
 ### Table des matières
