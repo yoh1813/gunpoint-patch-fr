@@ -2,7 +2,7 @@
 
 <p align="center">Traduction en Français pour le jeu Gunpoint</p>
 <p align="center">
-<a href=""><img src="..."></a>
+<a href="https://store.steampowered.com/app/206190/Gunpoint/?l=french"><img src="/yoh1813/gunpoint-patch-fr/tree/main/.readme.assets/header.png"></a>
 <a href="."><img src="..."></a>
 </p>
 
